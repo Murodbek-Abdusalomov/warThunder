@@ -5,33 +5,7 @@
     box-sizing: border-box;
 }
 
-.site-nav {
-    display: flex;
-    background-color: black;
-    list-style-type: none;
-    padding: .5em;
-    border-radius: .2em;
-}
 
-.site-nav>li {
-    margin-top: 0;
-}
-
-.site-nav>li>a {
-    display: block;
-    padding: .5em .1em;
-    background-color: red;
-    color: white;
-    text-decoration: none;
-}
-
-.site-nav>li+li {
-    margin-left: 1.5em;
-}
-
-.site-nav>.play {
-    margin-left: auto;
-}
 
 .home {
     width: 100vw;
